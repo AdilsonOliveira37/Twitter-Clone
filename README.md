@@ -1,4 +1,4 @@
-<h1>Projeto: Agendador de Tarefas - Tasks</h1>
+<h1>Projeto: Twitter-Clone</h1>
 
 <img src="https://res.cloudinary.com/oli37/image/upload/v1594812117/logomenor_zinb3k.svg" height=193 width=261>
 
